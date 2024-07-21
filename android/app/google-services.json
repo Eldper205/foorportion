@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013566501275",
+    "project_id": "food-portion",
+    "storage_bucket": "food-portion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013566501275:android:ebb09e90b85c4862c6713e",
+        "android_client_info": {
+          "package_name": "com.yikai.food_portion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013566501275-jitso03uprc9k0vvfi844l0k989qri77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iN-1ZhlZ6XFlMVnjgD1eJtmWVyKgIIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013566501275-jitso03uprc9k0vvfi844l0k989qri77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
